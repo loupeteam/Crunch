@@ -1,3 +1,12 @@
+(*
+ * File: Crunch.fun
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of Crunch, licensed under the MIT License.
+ * 
+ *)
+
 
 FUNCTION FFT : BOOL (*Run Fast Fourier Transform on Data*) (*$GROUP=User,$CAT=User,$GROUPICON=User.png,$CATICON=User.png*)
 	VAR_INPUT
