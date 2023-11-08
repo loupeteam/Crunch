@@ -14,6 +14,4 @@ To install using the Loupe Package Manager (LPM), in an initialized Automation S
 
 ## Licensing
 
-This project is primarily licensed under the [MIT License](LICENSE). However, it includes components under copyright from Takuya OOURA with a [permissive license](LICENSE-OOURA). Please refer to the respective files for full license texts.
-
-fft4g.c : [Copyright Takuya OOURA](LICENSE-OOURA)
+This project is licensed under the [MIT License](LICENSE). Please refer to the respective files for full license texts.
